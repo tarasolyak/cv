@@ -8,8 +8,8 @@
 @font-face {
     font-family: 'Sansus-Webissimo';
 
-    src: url('../cv/fonts/Sansus-Webissimo.ttf'),
-        url('../cv/fonts/Sansus-Webissimo.ttf') format('truetype');
+    src: url('/cv/fonts/Sansus-Webissimo.ttf'),
+        url('/cv/fonts/Sansus-Webissimo.ttf') format('truetype');
     font-style: normal;
     font-weight: 400;
     font-display: block;
