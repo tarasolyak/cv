@@ -257,21 +257,21 @@ hr {
 }
 
 .rectangles_skills {
-    width: 80px;
-    height: 5px;
+    width: 5rem;
+    height: 0.313rem;
     display: inline-flex;
     align-items: center;
     justify-content: space-between;
-    margin-left: 15px;
+    margin-left: 0.938rem;
 }
 
 .rectangles_skills span {
-    width: 20px;
-    height: 2px;
+    width: 1.25rem;
+    height: 0.125rem;
     color: var(--middle-blue);
     border: 1px solid var(--middle-blue);
     background-color: var(--dark-blue);
-    padding: 1.5px;
+    padding: 0.094rem;
 
 
 }
@@ -287,8 +287,8 @@ hr {
 }
 
 .info-img {
-    min-width: 25px;
-    height: 25px;
+    min-width: 1.563rem;
+    height: 1.563rem;
 }
 
 
@@ -556,8 +556,8 @@ svg.change-hover:hover {
 
 .portfolio-link-arrows {
     position: fixed;
-    bottom: 30px;
-    right: 75px;
+    bottom: 1.875rem;
+    right: 4.688rem;
 }
 
 .portrait {
