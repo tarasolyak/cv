@@ -509,7 +509,7 @@ svg.change-hover:hover {
     position: relative;
     height: 100vh;
     /* background: #000; */
-    width: 210rem;
+    width: 280rem;
     display: flex;
 }
 
