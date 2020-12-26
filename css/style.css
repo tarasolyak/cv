@@ -547,6 +547,17 @@ svg.change-hover:hover {
     /* display: inline-block; */
 }
 
+.coffee {
+    background-image: url(../img/sushibang.jpg);
+    background-size: contain;
+    width: 225rem;
+    height: 100%;
+    background-position: 0px 100%;
+    float: left;
+    background-repeat: no-repeat;
+    /* display: inline-block; */
+}
+
 .portfolio-btn-left,
 .portfolio-btn-right {
     border: 0;
