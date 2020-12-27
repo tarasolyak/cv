@@ -117,8 +117,8 @@ let j = 0;
 
 let quantitySlides = slide.length - 1;
 
-btnLeft.addEventListener('click', (e) => {
-    if (e.target === btnLeft && (j < quantitySlides && j >= 0)) {
+btnRight.addEventListener('click', (e) => {
+    if (e.target === btnRight && (j < quantitySlides && j >= 0)) {
         j += 1;
         for (let i = 0; i <= quantitySlides; i++) {
             slide[i].style.transition = `.5s all`;
@@ -127,8 +127,8 @@ btnLeft.addEventListener('click', (e) => {
     }
 });
 
-btnRight.addEventListener('click', (e) => {
-    if (e.target === btnRight && (j <= quantitySlides && j > 0)) {
+btnLeft.addEventListener('click', (e) => {
+    if (e.target === btnLeft && (j <= quantitySlides && j > 0)) {
         j -= 1;
         slide.forEach(element => {    
             element.style.transition = `1s all`;

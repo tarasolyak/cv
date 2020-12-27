@@ -513,17 +513,17 @@ svg.change-hover:hover {
     display: flex;
 }
 
-.medicine {
+/* background-size: cover; */
+
+/* .medicine {
     background-image: url(../img/gghg1.jpg);
     background-size: contain;
-    /* //cover */
     width: 225rem;
     height: 100%;
     background-position: 0px 100%;
     float: left;
     background-repeat: no-repeat;
-    /* display: inline-block; */
-}
+} */
 
 .dronix {
     background-image: url(../img/dronix.jpg);
@@ -549,6 +549,17 @@ svg.change-hover:hover {
 
 .sushibang {
     background-image: url(../img/sushibang.jpg);
+    background-size: contain;
+    width: 225rem;
+    height: 100%;
+    background-position: 0px 100%;
+    float: left;
+    background-repeat: no-repeat;
+    /* display: inline-block; */
+}
+
+.flash {
+    background-image: url(../img/flash_baner.jpg);
     background-size: contain;
     width: 225rem;
     height: 100%;
