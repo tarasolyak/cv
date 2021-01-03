@@ -202,13 +202,13 @@ object {
 
 .rotate90 {
     transform: rotate(90deg);
-    background: #1c4c55;
+    background: #1c4c555c;
     padding: 3px;
 }
 
 .rotate-90 {
     transform: rotate(-90deg);
-    background: #1c4c55;
+    background: #1c4c555c;
     padding: 3px;
 }
 
@@ -578,7 +578,7 @@ svg.change-hover:hover {
     border: 0;
     background-color: transparent;
     cursor: pointer;
-    background: #1c4c55;
+    background: #1c4c555c;
     padding: 3px;
 }
 
