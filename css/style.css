@@ -202,10 +202,14 @@ object {
 
 .rotate90 {
     transform: rotate(90deg);
+    background: #1c4c55;
+    padding: 3px;
 }
 
 .rotate-90 {
     transform: rotate(-90deg);
+    background: #1c4c55;
+    padding: 3px;
 }
 
 .slide-right {
